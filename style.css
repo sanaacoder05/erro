@@ -18,10 +18,10 @@ box-shadow:ivory 15px;
 body{
    box-shadow:cornflowerblue 15px;
 
-      background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+      background-image: linear-gradient(to bottom,#1e3d59,#f5f0e1,#ff6e40,#ffc13b);
     }
 
 
     h1,h3{
-      color:aliceblue;
+      color:black;
     }
