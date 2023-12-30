@@ -3,7 +3,7 @@ checkbox = "";
 keyboard= [];
 
 function preload(){
-    input = document.getElementById('status').value;
+    input = document.getElementById('data').value;
    
 }
 
